@@ -9,10 +9,8 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/diffusers-image-outpaint-jupyter/blob/main/diffusers_image_outpaint_jupyter.ipynb) | diffusers_image_outpaint_jupyter
 
 ### 🧬 Code
-
-### 📄 Paper
-
-### 🌐 Page
+https://github.com/lllyasviel/ControlNet-v1-1-nightly <br />
+https://huggingface.co/spaces/fffiloni/diffusers-image-outpaint/blob/main/app.py <br />
 
 ### 🖼 Output
 
