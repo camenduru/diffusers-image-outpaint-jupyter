@@ -7,6 +7,7 @@
 | Notebook | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/diffusers-image-outpaint-jupyter/blob/main/diffusers_image_outpaint_jupyter.ipynb) | diffusers_image_outpaint_jupyter
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/diffusers-image-outpaint-jupyter/blob/main/diffusers_image_outpaint_gradio_jupyter.ipynb) | diffusers_image_outpaint_gradio_jupyter
 
 ### 🧬 Code
 https://github.com/lllyasviel/ControlNet-v1-1-nightly <br />
